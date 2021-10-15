@@ -1,7 +1,7 @@
 # Android Topics
 
-* Android 12
-* Android for Cars
+* [Android 12](https://medium.com/android-topics/android-12-all-official-development-resources-d5a9a3b0684d)
+* [Android for Cars](https://medium.com/android-topics/android-for-cars-all-official-development-resources-73eb40c7b7d6)
 * Android for Tablets
 * Android Gradle Plugin
 * Android KTX
